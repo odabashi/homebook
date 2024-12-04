@@ -1,41 +1,83 @@
+# <h1 align="center">Homebook</h1>
 
-# Projekt-Infos
+## 🌟 Project Overview
+Homebook is an Android application designed to simplify and streamline shared living expense management. In an era where living costs continue to rise and shared living arrangements become increasingly common, Homebook provides a comprehensive solution for tracking, managing, and analyzing household expenses.
 
-**Team-Name:** MABEM
+The app addresses key challenges faced by roommates and shared living residents:
+- Transparent cost tracking
+- Easy expense splitting
+- Simplified payment management
+- Comprehensive financial insights
 
-**Projekt-Name:** HomeBook
+### Core Mission
+Homebook aims to:
+- Prevent financial disputes among roommates
+- Provide a user-friendly alternative to manual expense tracking
+- Offer detailed insights into household spending
+- Support multi-languages (For now, German and English)
 
-**Dokumentationssprache:** Deutsch 
+## 🚀 Key Features
+- **Multi-User Household Management**
+  - Create and manage shared living spaces
+  - Invite and manage roommates
+  - Assign admin roles
 
-**Projekt-Typ:** UXA
+- **Expense Tracking**
+  - Add monthly expenses (rent, bills, receipts)
+  - Edit and delete expense entries
+  - Transparent cost sharing among roommates
 
-**Programmiersprache:** Java 
+- **Payment Reminders**
+  - Set payment reminders
+  - Track upcoming and past payments
+  - Prevent late payment issues
 
-**Plattform:** Android
+- **Financial Analytics**
+  - Generate monthly expense statistics
+  - Visualize spending patterns
+  - Help users plan future expenses
+
+## 💻 Technical Specifications
+
+### Architecture
+- **Pattern**: MVVM (Model-View-ViewModel)
+- **Programming Principle**: Object-Oriented Programming (OOP)
+
+### Technology Stack
+- **Platform**: Android
+- **Programming Language**: Java
+- **Minimum SDK**: 21 (Lollipop)
+- **Database**: Google Firebase
+- **Runtime Environment**: Java Runtime Environment 8
+
+### Development Tools
+- **IDE**: Android Studio
+- **Version Control**: GitHub
+- **UI Design**: Inkscape
+
+## 🔐 Authentication
+- Email-based registration
+- Google account integration
+
+## 📦 Compatibility
+- Supports Android devices running SDK 21 and above
+- Covers 94%+ of Android devices
 
 
-| **Team-Mitglieder** |
+## 👥 Team
+
+
+| Developed by: MABEM Team |
 | --- |
-| Mulham ALIBRAHIM |
-| Ecesu ARSLAN |
-| Abdurrahman ODABAŞI **(Teamsprecher)** |
-| Batıkan Bora ORMANCI |
-| Muhammednur ŞEHEBİ |
+| **M**ulham ALIBRAHIM |
+| **A**bdurrahman ODABAŞI **(Team Leader)** |
+| **B**atıkan Bora ORMANCI |
+| **E**cesu ARSLAN |
+| **M**uhammednur ŞEHEBİ |
 
 
-
-# Wichtige-Links
-
-**Git Erklärung part1:** <https://drive.google.com/file/d/1YdrXWTUmYxifWOel7CqRtToexzy5etFm/view?usp=sharing>
-
-**Git Erklärung part2:** <https://drive.google.com/file/d/1MCN5ylbF5lWTVEzC80FlwUQwGWtidJyS/view?usp=sharing>
-
-**Git & Github.pdf:** <https://drive.google.com/file/d/11DXjaS9XUuhwQp6f957lnjNTpuZyYuc7/view?usp=sharing> 
-
-**Meeting:** https://meet.google.com/xzv-gbap-awf
-
-**PRODUCT SPRINT PLAN:** https://rb.gy/0tg9dp
-
-**Projektdokumentation:** https://rb.gy/bcmrd1
-
-**Anforderungsanalyse:** https://rb.gy/ifa6cj
+## 🤝 Contributing
+We welcome contributions! Whether you're interested in bug fixes, feature improvements, or documentation updates, please feel free to:
+- Open an issue
+- Submit a pull request
+- Provide feedback
