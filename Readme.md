@@ -1,4 +1,12 @@
 # <h1 align="center">Homebook</h1>
+<p align="center"> 
+    <img
+        src="./homebook_logo.png"
+        raw=true
+        alt="Homebook_Logo"
+        style="width: 192px; height: 192px" />
+</p>
+
 
 ## 🌟 Project Overview
 Homebook is an Android application designed to simplify and streamline shared living expense management. In an era where living costs continue to rise and shared living arrangements become increasingly common, Homebook provides a comprehensive solution for tracking, managing, and analyzing household expenses.
